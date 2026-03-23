@@ -1,0 +1,12 @@
+# Sample financial PDFs
+# Place your sample financial PDF documents here
+#
+# You can add:
+# - Balance sheets
+# - Earnings reports
+# - Risk assessment reports
+# - Quarterly/Annual reports
+#
+# Example format:
+# - company_q3_2024.pdf
+# - risk_analysis_2024.pdf

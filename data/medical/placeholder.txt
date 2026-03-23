@@ -1,0 +1,12 @@
+# Sample medical PDFs
+# Place your sample medical PDF documents here
+#
+# You can add:
+# - Clinical notes
+# - Lab reports
+# - Diagnostic results
+# - Patient histories
+#
+# Example format:
+# - patient_record_john_doe.pdf
+# - lab_results_2024.pdf
